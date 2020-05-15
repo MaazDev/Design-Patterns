@@ -8,6 +8,6 @@
     "typescript": "^3.8.3"
   },
   "scripts": {
-    "start:debug": "ts-node-dev --respawn --clear --transpileOnly src/nullPatern.ts"
+    "start:debug": "ts-node-dev"
   }
 }

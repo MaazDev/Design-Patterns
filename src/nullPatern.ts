@@ -32,6 +32,6 @@ function getUser(userName) {
 }
 
 getUser('d');
-getUser('Jean');
+getUser('Jean').hasAccess();
 
 
